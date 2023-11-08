@@ -16,7 +16,7 @@
       <h3>Projeto: Cordel Moderno por Milton Duarte</h3>
       <p>Uma interpretação moderna do tradicional cordel brasileiro, trazendo poesia e arte para a era digital.</p>
       <p>Link:<a href="https://kelvylly.github.io/cordel_project/">Cordel Moderno por Milton Duarte</a></p>
-      3>Projeto:DevLinks</h3>
+      <h3>Projeto:DevLinks</h3>
       <p>Link:<a href="https://kelvylly.github.io/Devlinks/">DevLinks</a></p>
     </nav> 
     <p>Estes são apenas alguns exemplos do meu trabalho. Estou sempre buscando novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. Se você está interessado em colaborar ou aprender mais sobre meu trabalho, sinta-se à vontade para entrar em contato.</p> </main>
